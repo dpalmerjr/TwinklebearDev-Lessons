@@ -5,7 +5,7 @@ Lesson*/Makefile
 *.slo
 *.lo
 *.o
-*.dll
+
 
 # Swap files
 *.swp
